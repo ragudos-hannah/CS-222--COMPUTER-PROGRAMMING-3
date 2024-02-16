@@ -1,2 +1,5 @@
-# CS-222--COMPUTER-PROGRAMMING-3
-This repository houses my coursework for CS 222 - Computer Programming 3 at SLU, detailing my progress in distributed systems, RMI, JSON, CORBA, and Web Services, reflecting a blend of theory and practical application.
+# CS 222: Computer Programming 3 - Integrative Technologies Repository
+
+## Description
+
+Welcome to my repository for CS 222: Computer Programming 3 at **Saint Louis University**, which focuses on the development of distributed systems using integrative technologies. This repository serves as a digital compilation of my work and progress throughout this course, reflecting my understanding and application of complex computing theories and practices.
