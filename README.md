@@ -1,4 +1,4 @@
-# CS 222: Computer Programming 3 - Integrative Technologies Repository
+# CS 222: Computer Programming 3 - Repository
 
 ## Description
 
